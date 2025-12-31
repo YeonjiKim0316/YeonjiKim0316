@@ -1,7 +1,7 @@
 ## Hi there 👋
 | 제목 | 설명 | 기술 스택 | 이미지 | 깃헙 | 링크 |
 | --- | --- | --- | --- | --- | --- |
-
+|프로젝트|프로젝트 설명|Python, AWS, FastAPI| | | |
 <!--
 **YeonjiKim0316/YeonjiKim0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
